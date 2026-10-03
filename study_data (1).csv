@@ -1,0 +1,31 @@
+Date,Total_study_hours,Max_focus_hours,Start time,End time,Subject,Day off
+9/1/2026,,,,,,Yes
+9/2/2026,,,,,,Yes
+9/3/2026,6,3.5,12PM,10PM,Python,No
+9/4/2026,10,4.5,1PM,5AM,Python,No
+9/5/2026,6.5,2,7AM,5PM,Python,No
+9/6/2026,,,,,,Yes
+9/7/2026,12.5,4.5,9AM,5AM,Stats,No
+9/8/2026,3,2,2PM,6PM,Stats,No
+9/9/2026,4,3.5,2PM,6PM,Python,No
+9/10/2026,1,1,4PM,5PM,Python,No
+9/11/2026,6,3,10AM,6PM,Stats,No
+9/12/2026,9,8,2PM,11PM,Stats,No
+9/13/2026,5,5,11AM,7AM,Stats ,No
+9/14/2026,,,,,,Yes
+9/15/2026,10,10,9AM,7PM,Python ,No
+9/16/2026,12,3.5,9AM,9PM,Python,No
+9/17/2026,10,4,10AM,1AM,Python ,No
+9/18/2026,9,3,9AM,11AM,Python ,No
+9/19/2026,4,4,12PM,4PM,Python ,No
+9/20/2026,9,7.5,11AM,11PM,Python ,No
+9/21/2026,5,3.3,4PM,10PM,Stats,No
+9/22/2026,5,3.3,11AM,5PM,Stats,No
+9/23/2026,8,4.3,10AM,7PM,Stats,No
+9/24/2026,5.5,3,9AM,3PM,Python ,No
+9/25/2026,5.5,4,11AM,5PM,Python,No
+9/26/2026,,,,,,Yes
+9/27/2026,,,,,,Yes
+9/28/2026,,,,,,Yes
+9/29/2026,,,,,,Yes
+9/30/2026,,,,,,
