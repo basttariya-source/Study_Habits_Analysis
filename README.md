@@ -5,6 +5,7 @@ This project analyzes my daily study habits using Python and Statistics to under
 The analysis was performed using a personal study dataset collected over multiple days.
 
 🎯 Objectives
+
 -Analyze daily study hours and study patterns
 -Understand the relationship between study time and maximum focus time
 -Compare study hours across different subjects
@@ -15,6 +16,7 @@ The analysis was performed using a personal study dataset collected over multipl
 -Extract key statistical insights from the dataset.
 
 🗂️ Dataset
+
 The dataset contains information about daily study sessions, including:
 -Date
 -Study Hours
@@ -25,6 +27,7 @@ The dataset contains information about daily study sessions, including:
 -Day Off.
 
 🛠️ Tools & Technologies
+
 -Python
 -Pandas
 -Matplotlib
@@ -32,6 +35,7 @@ The dataset contains information about daily study sessions, including:
 -Jupyter Notebook.
 
 📊 Analysis Performed
+
 -Exploratory Data Analysis
 -Data cleaning and preprocessing
 -Handling missing values
@@ -52,20 +56,24 @@ The dataset contains information about daily study sessions, including:
 -Comparison of study patterns across subjects and study days.
 
 🔍 Key Insights
+
 The project explores how study duration, focus time, subject choice, and study schedules are related to each other.
 
 The detailed findings and visualizations are available in the Jupyter Notebook.
 
 📁 Project Files
+
 -Study_Habits_Analysis.ipynb — Complete analysis, visualizations and statistical insights
 -study_data.csv — Dataset used for the analysis.
 
 🚀 Future Improvements
+
 -Collect data over a longer period
 -Include additional factors such as sleep duration, mood, and distractions
 -Build an interactive dashboard using Power BI or Tableau
 -Apply more advanced statistical analysis.
 
 👩‍💻 Author
+
 Created as a Python & Statistics learning project while developing Data Analytics skills.
 
